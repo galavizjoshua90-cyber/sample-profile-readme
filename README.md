@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm *Joshua Galaviz*
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+_UTSA class of 2028, work experience in network administration and currently work as a courier, I play volleyball, golf and basketball._
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
